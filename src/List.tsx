@@ -1,7 +1,7 @@
 import { useState } from "react";
 
 function List() {
-  const names = ["Mior", "Afif", "Faiz", "Auris", "Akun"];
+  const names = ["bruh", "bruh2", "bruh3"];
 
   const [selectedIndex, setSelectedIndex] = useState(-1);
 
